@@ -3,11 +3,22 @@
     padding: 15px;
 }
 body {
+    height: 100px;
+    width: 100px;
     background-color: lightblue;
     
     
     
 
+}
+form{
+    padding: 10px;
+    margin: 10px;
+height: 100px;
+width: 100px;
+
+    
+   
 }
 button {
     background-color: blue;
