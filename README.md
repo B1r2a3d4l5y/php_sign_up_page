@@ -11,4 +11,4 @@ SQL
 Back End
 PHP
 
-Please runthis code in xamp when you have downloaded the code file .
+Please run this code in xamp when you have downloaded the code file .
